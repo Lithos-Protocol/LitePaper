@@ -13,6 +13,6 @@ Collateralization serves as the second half which backs the Lithos protocol. Col
 ## Tokenization
 The Lithos token serves as a reward for miners to help encourage decentralized mining. Moreover, the token is required as a part of collateralization, thereby building an inherent market between miners and lenders. The token will also be used to help prevent spam and create new pools in the protocol. More info about the token will be given out soon. 
 
-More information about Lithos will be given as we begin work on our MVP, a basic NISP-powered Ergo pool.
+More information about Lithos will be given as we begin work on our full whitepaper. 
 
 
